@@ -1,3 +1,6 @@
+### Update 
+Updated to the latest ADB binaries 09/02/21
+
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
 For devices with ARM or ARM64 processors only!
