@@ -1,5 +1,5 @@
-### Update 
-Updated to the latest ADB binaries 09/02/21
+### Update 09/02/21
+Updated to the latest ADB binaries 
 
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
