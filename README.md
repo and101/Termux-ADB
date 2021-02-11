@@ -1,7 +1,9 @@
 ### Update 09/02/21
 ADB binaries updated to version 1.0.41
 
-This version supports ADB Pair.
+This version supports ADB Pair. 
+
+For more information on how to use ADB Pair refer to the official documentation: https://developer.android.com/studio/command-line/adb#connect-to-a-device-over-wi-fi-android-11+
 
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
