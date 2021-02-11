@@ -1,5 +1,7 @@
 ### Update 09/02/21
-Updated to the latest ADB binaries 
+ADB binaries updated to version 1.0.41
+
+This version supports ADB Pair.
 
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
